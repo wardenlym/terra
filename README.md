@@ -1,2 +1,2 @@
 # terra
-my terraform wrapper
+my environment settings integration
